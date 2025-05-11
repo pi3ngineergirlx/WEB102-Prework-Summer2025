@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SeaMonster Crowdfunding Website*
 
 Submitted by: **Soma Hebbar**
 
