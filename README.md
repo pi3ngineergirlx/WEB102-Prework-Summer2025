@@ -38,7 +38,9 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
+BUG FIXES
+The text in the top and runner up game sections was previously displaying the amount of money raised for the respective games rather than the titles of the games. This bug was fixed by changing the attribute of the variable present in the line of code in question.
+PREVIOUS ERRORS
 The backtick syntax for writing strings was initially misleading, as I am used to using quotation marks to write text in strings.
 It took me some time to realize that backticks allow variables to be implemented into strings and for messages to be personalized. Additionally, displaying the top and runner up games in terms of funding did not occur even if the code appears correct.
 
